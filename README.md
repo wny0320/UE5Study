@@ -6,3 +6,5 @@
 
 # Monsteratech Unreal Engine 5 BootCamp
 - 정리 후 올릴 예정
+- 우선 다음 노션을 블로그로 정리해서 올릴 예정
+- [Notion](https://mesquite-prune-8c9.notion.site/1b2750c96f7a805cb22af16cf5619f1e?pvs=4)
